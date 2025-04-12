@@ -41,11 +41,11 @@ npm run dev
 Open your browser and go to: http://localhost:5173
 ```
 ### 🧰 Built With
-React
-Vite
-Tailwind CSS
-Axios
-React Router
+- React
+- Vite
+- Tailwind CSS
+- Axios
+- React Router
 
 ### 📂 Project Structure
 ```bash
